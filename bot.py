@@ -6,7 +6,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 BOT_TOKEN = '8739969583:AAElf56svjZmlHbj-ZfaSaasHS_7qZQcTmU'
 API_URL = 'https://cryptomfo.hhos.net/api/bot.php'
-API_SECRET = 'your_client_secret_key_here_change_me'
+API_SECRET = 'inaaal'
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
