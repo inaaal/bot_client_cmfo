@@ -6,7 +6,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 app = Flask(__name__)
 
 BOT_TOKEN   = '8739969583:AAElf56svjZmlHbj-ZfaSaasHS_7qZQcTmU'
-WEBHOOK_URL = 'https://ВАШ-СЕРВИС.onrender.com/webhook'   
+WEBHOOK_URL = 'https://bot-client-cmfo.onrender.com/webhook'   
 API_URL     = 'https://cryptomfo.hhos.net/api/bot.php'
 API_SECRET  = 'inaaal'
 
